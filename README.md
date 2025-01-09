@@ -1,3 +1,4 @@
+![image alt](https://github.com/aravindkrishna-121/aravindkrishna-121/blob/949a34495aec4027b527820b23818dc39abb2585/hacker.gif)
 <h1 align="center">Hi 👋, I'm Aravind</h1>
 <h3 align="center">Welcome to my GitHub profile! I’m a passionate pentester and designer.</h3>
 
